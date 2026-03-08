@@ -22,3 +22,12 @@ We implemented a ResNet-based model for image classification from scratch. The c
 
 ---
 
+## Status quo
+
+This mandatory assignment was developed and trained on the **University of Oslo ML-nodes**, which are shared computing resources provided by the university IT department for machine learning and deep learning workloads.
+
+Training was performed by SSH-ing into the ML-nodes and running the experiments directly on these machines. The dataset used in the assignment was provided through the course infrastructure and stored on the university systems. Due to its size and course distribution restrictions, the dataset is **not included in this repository**, which means the project is **not directly runnable from this repository alone**.
+
+The purpose of this repository is therefore to document the implementation of the model architecture, training pipeline, and experimental setup used for the assignment.
+
+To reproduce the results, access to the original dataset and a compatible compute environment (such as the UiO ML-nodes or a similar GPU-enabled machine learning environment) would be required.
